@@ -1,1 +1,1 @@
-Please visit [https://xemu.app](https://xemu.app) for more information.
+Please visit https://dev-ali2008.github.io/Xanite.io/#social for more information.
