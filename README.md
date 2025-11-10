@@ -3,11 +3,11 @@ Please visit https://dev-ali2008.github.io/Xanite.io/#social for more informatio
 ![image alt](https://github.com/batoripX/XaniteOG/blob/0dbf56ac173a18aa94ac75797efea3fafe51b217/IMG_20250926_184057_261.jpg)
 
 <h1 align="center"> Xanite -
- Xbox 360 emulator </h1>
+ Xbox OG emulator </h1>
 
 Xanite is a "proof of concept" emulator. 
 
-This project emulates the Xbox 360 console on Android, supporting games in iso formats.
+This project emulates the Xbox og console on Android, supporting games in iso formats.
 
 - Hardware Detection:  
 Automatically identifies your device's hardware (GPU, RAM) and optimizes settings for peak performance
@@ -17,7 +17,7 @@ you can manually adjust the resolution and performance in settings for experimen
 
 ## System Requirements
 
-### For Xbox 360
+### For Xbox og
 - Processors:
 
   - Snapdragon 855 or better
@@ -25,8 +25,8 @@ you can manually adjust the resolution and performance in settings for experimen
   - Dimensity 8300 or better
 
 - RAM:
-  - 8 GB minimum
-  - 12+ GB recommended
+  - 4-6 GB minimum
+  - 8+ GB recommended
 
 ### Graphics:
 - (opengl coming soon)
