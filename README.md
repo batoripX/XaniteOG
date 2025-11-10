@@ -38,11 +38,11 @@ you can manually adjust the resolution and performance in settings for experimen
 
 ## How to Use
 
-For Xbox 360:
-   - Requires Xbox 360 system files from your console
+For Xbox Original:
 
+- Install BIOS from your own Xbox OG
 
-   - Games in iso format from your personal collection
+- Obtain games in xiso format from your personal game copies
 
 ## Contributing
 
