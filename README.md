@@ -21,11 +21,11 @@ you can manually adjust the resolution and performance in settings for experimen
 - Processors:
 
   - Snapdragon 855 or better
-  - Exynos 2200 or better
-  - Dimensity 8300 or better
+  - Exynos 990 or better
+  - Dimensity 1000 or better
 
 - RAM:
-  - 4-6 GB minimum
+  - 4 GB minimum
   - 8+ GB recommended
 
 ### Graphics:
