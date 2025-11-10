@@ -53,7 +53,5 @@ Developed by @FreePalestine1970,@Yebot32 and other developers on Telegram and di
 Special thanks to all Xanite supporters.
 
 ## DISCLAIMER !
-Xanite is an open-source project not affiliated with Microsoft, Xemu, or Xenia. It is intended for educational purposes and, We are porting.  
-
-We do not condone piracy. BIOS
+Xanite is an open-source project not affiliated with Microsoft, It is intended for educational purposes and we do not condone piracy.
 
