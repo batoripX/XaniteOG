@@ -51,6 +51,12 @@
 #include "xemu-version.h"
 #include "xemu-os-utils.h"
 
+// Android-specific includes
+#include <android/native_window.h>
+#include <android/log.h>
+#include <vulkan/vulkan.h>
+#include <vulkan/vulkan_android.h>
+
 #include "data/xemu_64x64.png.h"
 
 #include "hw/xbox/smbus.h" // For eject, drive tray
